@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\marcu\\documents\\unreal projects\\myproject2\\source\\myproject2\\myproject2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\marcu\\documents\\unreal projects\\myproject2\\intermediate\\build\\win64\\x64\\myproject2editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\marcu\\documents\\unreal projects\\myproject2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject2\\definitions.myproject2.h",
+            "c:\\users\\marcu\\documents\\unreal projects\\myproject2\\source\\myproject2\\myproject2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
