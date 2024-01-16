@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-MyProject2.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\marcu\Documents\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
-"C:\Users\marcu\Documents\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.obj"
-"C:\Users\marcu\Documents\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Default.rc2.res"
-/OUT:"C:\Users\marcu\Documents\Unreal Projects\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\UnrealEditor-MyProject2.lib"
+"C:\Users\shane\Documents\Unreal Projects\GDENG02\MyProject2\Intermediate\Build\Win64\x64\MyProject2Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\shane\Documents\Unreal Projects\GDENG02\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.obj"
+"C:\Users\shane\Documents\Unreal Projects\GDENG02\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Default.rc2.res"
+/OUT:"C:\Users\shane\Documents\Unreal Projects\GDENG02\MyProject2\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\UnrealEditor-MyProject2.lib"
