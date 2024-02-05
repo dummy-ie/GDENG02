@@ -1,0 +1,106 @@
+[
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\ActorPoolable.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\ActorPoolable.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\CoinObjectPool.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\CoinObjectPool.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\ObjectSpawner.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\ObjectSpawner.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\Object_Spawning.Build.cs",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\Object_Spawning.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\Object_Spawning.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\PointsTrigger.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\PointsTrigger.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\PoolController.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\Source\\Object_Spawning\\PoolController.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\Object_Spawning\\.vscode\\compileCommands_Object_Spawning\\Object_Spawning.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Beginner_KickstartEditor Editor Win64 Development (Beginner_Kickstart)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Beginner_Kickstart\\.vscode\\compileCommands_Beginner_Kickstart.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Beginner_Kickstart\\.vscode\\compileCommands_Default.json",
+            "includePath": [
+                "${workspaceFolder}\\\\Intermediate\\**",
+                "${workspaceFolder}\\\\Plugins\\**",
+                "${workspaceFolder}\\\\Source\\**"
+            ]
+        }
+    ],
+    "version": 4
+}

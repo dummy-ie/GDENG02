@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Unreal_Challenge_1Editor Editor Win64 Development (Unreal_Challenge_1)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
