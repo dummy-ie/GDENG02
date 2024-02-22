@@ -11,7 +11,8 @@
 	],
 	"settings": {
 		"typescript.tsc.autoDetect": "off",
-		"npm.autoDetect": "off"
+		"npm.autoDetect": "off",
+		"dotnet.defaultSolution": "UE5/Engine/Source/Runtime/SymsLib/SymsLib.sln"
 	},
 	"extensions": {
 		"recommendations": [
@@ -30,7 +31,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Debug",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -47,7 +48,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Debug",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -67,7 +68,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Debug",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -84,7 +85,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -101,7 +102,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -121,7 +122,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -138,7 +139,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Development",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -155,7 +156,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Development",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -175,7 +176,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Development",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -192,7 +193,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Test",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -209,7 +210,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Test",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -229,7 +230,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Test",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -246,7 +247,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -263,7 +264,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -283,7 +284,7 @@
 					"Unreal_Challenge_1",
 					"Win64",
 					"Shipping",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -300,7 +301,7 @@
 					"Unreal_Challenge_1Editor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -317,7 +318,7 @@
 					"Unreal_Challenge_1Editor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -337,7 +338,7 @@
 					"Unreal_Challenge_1Editor",
 					"Win64",
 					"Debug",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -354,7 +355,7 @@
 					"Unreal_Challenge_1Editor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -371,7 +372,7 @@
 					"Unreal_Challenge_1Editor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -391,7 +392,7 @@
 					"Unreal_Challenge_1Editor",
 					"Win64",
 					"DebugGame",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -408,7 +409,7 @@
 					"Unreal_Challenge_1Editor",
 					"Win64",
 					"Development",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -425,7 +426,7 @@
 					"Unreal_Challenge_1Editor",
 					"Win64",
 					"Development",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -445,7 +446,7 @@
 					"Unreal_Challenge_1Editor",
 					"Win64",
 					"Development",
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -462,7 +463,7 @@
 			{
 				"name": "Launch Unreal_Challenge_1 (Debug)",
 				"request": "launch",
-				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "Unreal_Challenge_1 Win64 Debug Build",
 				"args": [
 				],
@@ -478,7 +479,7 @@
 			{
 				"name": "Launch Unreal_Challenge_1 (DebugGame)",
 				"request": "launch",
-				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "Unreal_Challenge_1 Win64 DebugGame Build",
 				"args": [
 				],
@@ -494,7 +495,7 @@
 			{
 				"name": "Launch Unreal_Challenge_1 (Development)",
 				"request": "launch",
-				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "Unreal_Challenge_1 Win64 Development Build",
 				"args": [
 				],
@@ -510,7 +511,7 @@
 			{
 				"name": "Launch Unreal_Challenge_1 (Test)",
 				"request": "launch",
-				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "Unreal_Challenge_1 Win64 Test Build",
 				"args": [
 				],
@@ -526,7 +527,7 @@
 			{
 				"name": "Launch Unreal_Challenge_1 (Shipping)",
 				"request": "launch",
-				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "Unreal_Challenge_1 Win64 Shipping Build",
 				"args": [
 				],
@@ -545,7 +546,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "Unreal_Challenge_1Editor Win64 Debug Build",
 				"args": [
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject"
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
@@ -562,7 +563,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "Unreal_Challenge_1Editor Win64 DebugGame Build",
 				"args": [
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject"
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
@@ -579,7 +580,7 @@
 				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "Unreal_Challenge_1Editor Win64 Development Build",
 				"args": [
-					"C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject"
+					"C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject"
 				],
 				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
 				"stopAtEntry": false,
@@ -599,7 +600,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
+					"-project=C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Unreal_Challenge_1.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"

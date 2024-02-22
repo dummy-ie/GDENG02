@@ -7,6 +7,7 @@
 #include "Components/StaticMeshComponent.h"
 #include "PhysicsEngine/PhysicsConstraintComponent.h"
 #include "Math/UnrealMathUtility.h"
+#include "Components/InputComponent.h"	
 #include "CPP_Panel.generated.h"
 
 UCLASS()
@@ -41,7 +42,11 @@ public:
 private:
 	FVector InitialLocation;
 	FVector TargetLocation;
+	int speedMultiplier = 1;
 
 	UPROPERTY()
 	UPhysicsConstraintComponent* PhysicsConstraintComponent;
+	
+	void IncreaseSpeed();
+	void DecreaseSpeed();
 };

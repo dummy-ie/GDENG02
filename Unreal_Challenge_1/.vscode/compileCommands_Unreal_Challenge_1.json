@@ -1,26 +1,82 @@
 [
-	{
-		"file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Unreal_Challenge_1.Build.cs",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Unreal_Challenge_1.cpp",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	},
-	{
-		"file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Unreal_Challenge_1.h",
-		"arguments": [
-			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\marcu\\Documents\\Unreal Projects\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
-		],
-		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
-	}
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Buildings\\ProductionBuilding.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Buildings\\ProductionBuilding.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Enums\\ResourceType.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\GameManager.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\GameManager.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Logistics\\Truck.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Logistics\\Truck.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Unreal_Challenge_1.Build.cs",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Unreal_Challenge_1.cpp",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\Source\\Unreal_Challenge_1\\Unreal_Challenge_1.h",
+        "arguments": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Users\\marcu\\Documents\\Unreal Projects\\GDENG02\\Unreal_Challenge_1\\.vscode\\compileCommands_Unreal_Challenge_1\\Unreal_Challenge_1.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+    }
 ]

@@ -37,6 +37,10 @@ public:
 
 	void SpawnFromPool();
 
+	void IncreaseCoinSpawn();
+
+	void DecreaseCoinSpawn();
+
 	UPROPERTY(EditAnywhere)
 	AActor* ObjectPool;			// The actor handling all poolable objects.
 
@@ -51,4 +55,5 @@ private:
 	UCPP_ObjectPool* ObjectPoolComponent;
 	// Variable to store the number of released coins
 	int32 ReleasedCoinCount = 0;
+	int coinsOnSpawn = 1;
 };

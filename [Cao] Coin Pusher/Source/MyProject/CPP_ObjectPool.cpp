@@ -1,6 +1,5 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-
 #include "CPP_ObjectPool.h"
 
 // Sets default values for this component's properties
@@ -13,7 +12,6 @@ UCPP_ObjectPool::UCPP_ObjectPool()
 	// ...
 }
 
-
 // Called when the game starts
 void UCPP_ObjectPool::BeginPlay()
 {
@@ -23,9 +21,8 @@ void UCPP_ObjectPool::BeginPlay()
 	this->Initialize();
 }
 
-
 // Called every frame
-void UCPP_ObjectPool::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
+void UCPP_ObjectPool::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction *ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 
@@ -45,8 +42,9 @@ void UCPP_ObjectPool::Initialize()
 	spawnParams.Owner = this->GetOwner();
 
 	const FTransform transform = this->actorCopy->GetActorTransform();
-	for (int i = 0; i < this->maxPoolSize - 1; i++) {
-		AActorPoolable* poolableObject = this->GetWorld()->SpawnActor<AActorPoolable>(this->actorCopy->GetClass(), spawnParams);
+	for (int i = 0; i < this->maxPoolSize - 1; i++)
+	{
+		AActorPoolable *poolableObject = this->GetWorld()->SpawnActor<AActorPoolable>(this->actorCopy->GetClass(), spawnParams);
 		poolableObject->SetIndex(i);
 		poolableObject->OnInitialize();
 		this->availableObjects.Push(poolableObject);
@@ -63,20 +61,21 @@ int UCPP_ObjectPool::GetMaxPoolSize() const
 	return this->maxPoolSize;
 }
 
-AActorPoolable* UCPP_ObjectPool::RequestPoolable()
+AActorPoolable *UCPP_ObjectPool::RequestPoolable()
 {
 	float CurrentTime = GetWorld()->GetTimeSeconds();
 
 	// Check if enough time has passed since the last request
-	if (CurrentTime - this->LastRequestTime < 1.0f) // Adjust the cooldown period as needed
-	{
-		UE_LOG(LogTemp, Display, TEXT("Cannot request object. Cooldown period not expired."));
-		return nullptr;
-	}
+	// if (CurrentTime - this->LastRequestTime < 1.0f) // Adjust the cooldown period as needed
+	// {
+	// 	UE_LOG(LogTemp, Display, TEXT("Cannot request object. Cooldown period not expired."));
+	// 	return nullptr;
+	// }
 
-	if (this->HasObjectAvailable(1)) {
+	if (this->HasObjectAvailable(1))
+	{
 		UE_LOG(LogTemp, Warning, TEXT("Object requested from pool"));
-		AActorPoolable* object = this->availableObjects.Pop();
+		AActorPoolable *object = this->availableObjects.Pop();
 		object->SetIndex(this->usedObjects.Num());
 		this->usedObjects.Push(object);
 		object->OnActivate();
@@ -87,23 +86,25 @@ AActorPoolable* UCPP_ObjectPool::RequestPoolable()
 
 		return object;
 	}
-	else {
+	else
+	{
 		UE_LOG(LogTemp, Display, TEXT("No more available objects in the pool."));
 		return NULL;
 	}
 }
 
-TArray<AActorPoolable*> UCPP_ObjectPool::RequestPoolableBatch(int size)
+TArray<AActorPoolable *> UCPP_ObjectPool::RequestPoolableBatch(int size)
 {
-	TArray<AActorPoolable*> objects;
-	for (int i = 0; i < size && this->availableObjects.Num() > 0; i++) {
+	TArray<AActorPoolable *> objects;
+	for (int i = 0; i < size && this->availableObjects.Num() > 0; i++)
+	{
 		objects.Push(this->RequestPoolable());
 	}
 
 	return objects;
 }
 
-void UCPP_ObjectPool::ReleasePoolable(AActorPoolable* poolableObject)
+void UCPP_ObjectPool::ReleasePoolable(AActorPoolable *poolableObject)
 {
 	UE_LOG(LogTemp, Warning, TEXT("Object released back to pool"));
 	poolableObject->OnRelease();
@@ -111,17 +112,19 @@ void UCPP_ObjectPool::ReleasePoolable(AActorPoolable* poolableObject)
 	this->availableObjects.Push(poolableObject);
 }
 
-void UCPP_ObjectPool::ReleasePoolableBatch(TArray<AActorPoolable*> objectList)
+void UCPP_ObjectPool::ReleasePoolableBatch(TArray<AActorPoolable *> objectList)
 {
-	for (int i = 0; i < objectList.Num(); i++) {
+	for (int i = 0; i < objectList.Num(); i++)
+	{
 		this->ReleasePoolable(objectList[i]);
 	}
 }
 
 void UCPP_ObjectPool::ReleasePoolableBatch(int count)
 {
-	TArray<AActorPoolable*> objectList;
-	for (int i = 0; i < count && this->availableObjects.Num() > 0; i++) {
+	TArray<AActorPoolable *> objectList;
+	for (int i = 0; i < count && this->availableObjects.Num() > 0; i++)
+	{
 		this->ReleasePoolable(objectList[i]);
 	}
 }
@@ -130,11 +133,13 @@ void UCPP_ObjectPool::BeginDestroy()
 {
 	Super::BeginDestroy();
 
-	for (int i = 0; i < this->availableObjects.Num(); i++) {
+	for (int i = 0; i < this->availableObjects.Num(); i++)
+	{
 		this->availableObjects[i]->Destroy();
 	}
 
-	for (int i = 0; i < this->usedObjects.Num(); i++) {
+	for (int i = 0; i < this->usedObjects.Num(); i++)
+	{
 		this->usedObjects[i]->Destroy();
 	}
 

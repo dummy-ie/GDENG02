@@ -1,0 +1,139 @@
+# Blender MTL File: 'industrial biiulding.blend'
+# Material Count: 11
+
+newmtl Brickwall
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 12.000000 12.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\brickwall\\Brickwall_DF.png
+map_Ns -s 12.000000 12.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\brickwall\\Brickwall_Roughness.png
+
+newmtl Door
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\door\\Door_DF.png
+map_Ns C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\door\\Door_roughnness.png
+refl C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\door\\Door_MT.png
+
+newmtl Door_locker
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\door_locker\\Door_locker_DF.png
+map_Ns C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\door_locker\\Door_locker_roughness.png
+refl C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\door_locker\\Door_locker_MT.png
+
+newmtl Ground
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.000000 10.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\ground\\Ground_DF.png
+map_Ns -s 10.000000 10.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\ground\\Ground_Roughness.png
+
+newmtl Handrail
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 4.000000 4.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\handrail\\Handrail_DF.png
+map_Ns -s 4.000000 4.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\handrail\\Handrail_Roughness.png
+refl -s 4.000000 4.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\handrail\\Handrail_MT.png
+
+newmtl Second_floor
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 3.000000 3.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\second floor\\Second_floor_DF.png
+map_Ns -s 3.000000 3.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\second floor\\Second_floor_Roughness.png
+refl C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\second floor\\Second_floor_MT.png
+
+newmtl Stairs
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 5.000000 5.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\stairs\\stairs_DF.png
+map_Ns -s 5.000000 5.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\stairs\\stairs_Roughness.png
+
+newmtl Windows
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\windows\\Windows_DF.png
+map_Ns C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\windows\\Windows_Roughness.png
+
+newmtl Wood
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 6.000000 6.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\wood\\Wood_DF.png
+map_Ns -s 6.000000 6.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\wood\\Wood_roughness.png
+
+newmtl Wood_Beams
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 5.000000 5.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\lower_wood\\Wood_Beams_DF.png
+map_Ns -s 5.000000 5.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\lower_wood\\Wood_Beams_Roughness.png
+
+newmtl roof
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 10.000000 10.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\handrail\\Handrail_DF.png
+map_Ns -s 10.000000 10.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\roof\\Roof_Roughness.png
+refl -s 10.000000 10.000000 1.000000 C:\\Users\\fabio\\Desktop\\blender models\\lowpolybiuldings\\biulding2\\handrail\\Handrail_MT.png

@@ -4,6 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "Kismet/KismetMaterialLibrary.h"
 #include "Engine/StaticMeshActor.h"
 #include "ActorPoolable.generated.h"
 
